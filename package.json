@@ -2,7 +2,7 @@
   "name": "stocktwits-text",
   "version": "1.0.0",
   "description": "stocktwits-text with a package.json",
-  "main": "stocktwits-text.js",
+  "main": "autoLink.coffee",
   "directories": {
     "lib": "lib",
     "test": "test"
